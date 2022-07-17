@@ -1,7 +1,3 @@
 - 👋 Hi, I’m @roru2k20
 - 👀 I’m interested in Cloudron, Docker, Linux, PHP, Business Tools and much more
 - 🌱 I’m currently learning Cloudron, Docker, Linux, PHP, Akeneo and much more
-- 📫 How to reach me 
-  - https://t.me/roru2k20
-  - https://www.linkedin.com/in/axel-hoga-960872184/
-  - https://www.xing.com/profile/Axel_Hoga/cv
